@@ -113,7 +113,7 @@ background-color:var(--amarillo);
 }
 
 .diseño{
-    background-image: url(imagen.jpg);
+    background: url(../imagen.jpg);
 background-size: cover;
 height: 30rem;
 background-repeat:no-repeat ;
