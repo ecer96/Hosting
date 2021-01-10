@@ -113,7 +113,7 @@ background-color:var(--amarillo);
 }
 
 .diseño{
-    background-image: url(https://github.com/ecer96/Hosting/tree/gh-pages/imagen.jpg);
+    background-image: url(/imagen.JPG);
 background-size: cover;
 height: 30rem;
 background-repeat:no-repeat ;
